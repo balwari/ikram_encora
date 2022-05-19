@@ -1,3 +1,9 @@
+In this project user can register, login and logout.
+
+User can add a product
+He can update the product details
+He can delete the product
+
 git clone the project
 
 composer install
@@ -12,3 +18,4 @@ create database with name products
 
 php artisan migrate
 
+php artisan key:generate
